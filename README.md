@@ -8,7 +8,8 @@
 **Johnny** is an AI-driven, 3D-printed humanoid robot built on the INMOOV mechanical platform. The project focused on synchronizing cloud-based generative language models with Arduino microcontrollers to generate speech-synchronized physical gestures in real-time.
 
 <p align="center">
-  <img src="media/johnny_demo.gif" width="700" alt="Johnny Robot Demo" />
+  <!-- width değeri 700'den 400'e düşürülerek kutu boyutu küçültüldü -->
+  <img src="media/johnny_demo.gif" width="400" alt="Johnny Robot Demo" />
 </p>
 
 ---
