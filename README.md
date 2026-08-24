@@ -14,10 +14,6 @@
 ## 🏗️ Hardware-to-Cloud Pipeline
 The interaction loop is designed to be seamless and responsive. The onboard microphone and camera array capture the user's spoken queries, which a Python-based core architecture packages and sends to **Google Vertex AI** (chat-bison).
 
-<p align="center">
-  <img src="media/johnny_front.jpg" width="400" alt="Johnny Front View" />
-</p>
-
 ---
 
 ## 🛠️ Cloud-to-Hardware Synchronization
@@ -28,7 +24,9 @@ Translating text tokens into physical movement required precise orchestration:
 * **Actuation:** The Arduino translates the serial commands into coordinated PWM signals, driving the servo actuators for real-time physical gestures.
 
 <p align="center">
-  <img src="media/johnny_arduino.jpg" width="500" alt="Arduino Setup & Wiring" />
+  <img src="media/johnny_front.jpg" width="48%" alt="Johnny Front View" />
+  &nbsp;
+  <img src="media/johnny_arduino.jpg" width="48%" alt="Arduino Setup & Wiring" />
 </p>
 
 ---
