@@ -11,6 +11,26 @@
 
 ---
 
+## 🎥 Video Demonstrations
+Real-world conversational tests and speech-gesture synchronization showcases:
+
+<p align="center">
+  <a href="https://youtu.be/F9lDkF4Tsqk" target="_blank">
+    <img src="https://img.youtube.com/vi/F9lDkF4Tsqk/hqdefault.jpg" width="48%" alt="What does humanoid Johnny know about image processing?" />
+  </a>
+  &nbsp;
+  <a href="https://youtu.be/YpDC-ViBZMg" target="_blank">
+    <img src="https://img.youtube.com/vi/YpDC-ViBZMg/hqdefault.jpg" width="48%" alt="Father's Day gift suggestions from Humanoid Johnny" />
+  </a>
+</p>
+
+| Video Demo | Description | Duration |
+| :--- | :--- | :---: |
+| 🎬 [What does humanoid Johnny know about image processing?](https://youtu.be/F9lDkF4Tsqk) | Live query testing Johnny's domain knowledge in computer vision and real-time responsiveness. | `0:26` |
+| 🎬 [Father's Day gift suggestions from Humanoid Johnny](https://youtu.be/YpDC-ViBZMg) | Conversational dialogue demonstrating natural context handling, TTS delivery, and synchronized head actuation. | `1:25` |
+
+---
+
 ## 🏗️ Hardware-to-Cloud Pipeline
 The interaction loop is designed to be seamless and responsive. The onboard microphone and camera array capture the user's spoken queries, which a Python-based core architecture packages and sends to **Google Vertex AI** (chat-bison).
 
